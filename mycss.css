@@ -1,0 +1,20 @@
+h1 {
+    color: lightpink;
+}
+
+body {
+    font-weight: 800;
+}
+
+#sss_card {
+    background-color: aquamarine;
+}
+
+.card {
+    background-color: khaki;
+}
+
+.card > p {
+    background-color: lightblue;
+    padding: 5px 5px;
+}
